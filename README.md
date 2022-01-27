@@ -1,9 +1,9 @@
-### Hi I'm Vladimir and I'm beginner IOS developer👋
+### Hi, my name is Vladimir, I am a beginner IOS developer.👋
 
+- 🏠 I live in Saint-Petersburg
 - 🌱 I’m currently learning Swift 
 - 💻 I'm currently looking for a job in Mobile Development
-- 📫 How to reach me: telegram 
-- 
+- 📫 How to reach me: my telegram @HolyBuddha
 <!--
 **HolyBuddha/HolyBuddha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
