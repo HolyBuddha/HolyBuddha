@@ -1,6 +1,6 @@
 ### Hi, my name is Vladimir, I am a beginner IOS developer.👋
 
-- 🏠 I live in Saint-Petersburg
+- 🏠 I live in Saint-Petersburg (Russia)
 - 🌱 I’m currently learning Swift 
 - 💻 I'm currently looking for a job in Mobile Development
 - 📫 You can contact me by telegram @HolyBuddha
