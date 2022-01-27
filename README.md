@@ -1,6 +1,9 @@
-### Hi there 👋
+### Hi I'm Vladimir and beginner IOS developer👋
 
-- 🌱 I’m currently learning swift
+- 🌱 I’m currently learning Swift 
+- 💻 I'm currently looking for a job in Mobile Development
+- 📫 How to reach me: telegram 
+- 
 <!--
 **HolyBuddha/HolyBuddha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
