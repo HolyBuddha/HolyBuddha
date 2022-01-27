@@ -3,7 +3,7 @@
 - 🏠 I live in Saint-Petersburg
 - 🌱 I’m currently learning Swift 
 - 💻 I'm currently looking for a job in Mobile Development
-- 📫 How can contact my by telegram @HolyBuddha
+- 📫 You can contact me by telegram @HolyBuddha
 <!--
 **HolyBuddha/HolyBuddha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
