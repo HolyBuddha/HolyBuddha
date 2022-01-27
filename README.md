@@ -1,4 +1,4 @@
-### Hi I'm Vladimir and beginner IOS developer👋
+### Hi I'm Vladimir and I'm beginner IOS developer👋
 
 - 🌱 I’m currently learning Swift 
 - 💻 I'm currently looking for a job in Mobile Development
