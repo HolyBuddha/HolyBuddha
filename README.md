@@ -1,4 +1,4 @@
-### Hi, my name is Vladimir, I am a beginner IOS developer.👋
+### Hi, my name is Vladimir, I am a IOS developer.👋
 
 - 🏠 I live in Saint-Petersburg, Russia
 - 🌱 I’m currently learning Swift 
