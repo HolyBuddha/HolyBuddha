@@ -1,8 +1,6 @@
 ### Hi, my name is Vladimir, I am a IOS developer.👋
 
 - 🏠 I live in Saint-Petersburg, Russia
-- 🌱 I’m currently learning Swift 
-- 💻 I'm currently looking for a job in Mobile Development
 - 📫 You can contact me by telegram @HolyBuddha
 <!--
 **HolyBuddha/HolyBuddha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
