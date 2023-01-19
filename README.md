@@ -1,4 +1,4 @@
-### Hi, my name is Vladimir, I am a IOS developer.👋
+### Hi, my name is Vladimir, I am a IOS and Flutter developer.👋
 
 - 🏠 I live in Saint-Petersburg, Russia
 - 📫 You can contact me by telegram @HolyBuddha
